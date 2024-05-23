@@ -1,0 +1,4 @@
+Filer Name,Stock Name,Stock Ticker,Quarter Date,Type of Security,Current Shares Held,Current Market Value,Previous Shares Held,Previous Market Value,Current % of Portfolio,Previous % of Portfolio,Current Rank,Previous Rank,Change in Shares,Type of Change,Sector,stock_id
+FAIRHOLME CAPITAL MANAGEMENT LLC,St. Joe Corp,JOE,2019-06-30,SH,26507388.0,458048000.0,26532198.0,437516000.0,98.0111,92.443,1,1,-0.093509,reduction,REAL ESTATE,2602
+FAIRHOLME CAPITAL MANAGEMENT LLC,Vista Outdoor Inc,VSTO,2019-06-30,SH,606300.0,5384000.0,1159000.0,9284000.0,1.152,1.9616,2,3,-47.687662,reduction,CONSUMER DISCRETIONARY,175999
+FAIRHOLME CAPITAL MANAGEMENT LLC,Berkshire Hathaway Inc Class B,BRK.B,2019-06-30,SH,18345.0,3911000.0,131825.0,26482000.0,0.8369,5.5954,3,2,-86.083823,reduction,FINANCE,2827

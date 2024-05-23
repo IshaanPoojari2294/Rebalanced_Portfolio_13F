@@ -1,0 +1,9 @@
+Filer Name,Stock Name,Stock Ticker,Quarter Date,Type of Security,Current Shares Held,Current Market Value,Previous Shares Held,Previous Market Value,Current % of Portfolio,Previous % of Portfolio,Current Rank,Previous Rank,Change in Shares,Type of Change,Sector,stock_id
+ICAHN CARL C,Icahn Enterprises LP,IEP,2003-12-31,SH,39896836.0,678246000.0,0.0,0.0,72.7505,,1,999999,,new,INDUSTRIALS,9659
+ICAHN CARL C,Vector Group Ltd. (Liggett Group Inc. - Brooke Group Ltd.),VGR,2003-12-31,SH,13744092.62,130876000.0,0.0,0.0,14.0381,,2,999999,,new,CONSUMER STAPLES,6893
+ICAHN CARL C,New Valley Warrants,nval-w1,2003-12-31,SH,624602.0,61445000.0,0.0,0.0,6.5908,,3,999999,,new, ,107374
+ICAHN CARL C,Hallwood Realty Partners L.P.,HRY,2003-12-31,SH,235000.0,28200000.0,0.0,0.0,3.0248,,4,999999,,new,FINANCE,101512
+ICAHN CARL C,GB Holdings Inc.,GBHDQ,2003-12-31,SH,7748744.0,24021000.0,0.0,0.0,2.5766,,5,999999,,new,CONSUMER DISCRETIONARY,100910
+ICAHN CARL C,New Valley Corp.,NVAL,2003-12-31,SH,1262686.0,5442000.0,0.0,0.0,0.5837,,6,999999,,new,FINANCE,103501
+ICAHN CARL C,Tropical Sportswear International Corp.,TSICQ,2003-12-31,SH,989938.0,2158000.0,0.0,0.0,0.2315,,7,999999,,new,CONSUMER DISCRETIONARY,105977
+ICAHN CARL C,Ladenburg Thalmann Financial Services Inc,LTS,2003-12-31,SH,3396258.0,1902000.0,0.0,0.0,0.204,,8,999999,,new,FINANCE,7314

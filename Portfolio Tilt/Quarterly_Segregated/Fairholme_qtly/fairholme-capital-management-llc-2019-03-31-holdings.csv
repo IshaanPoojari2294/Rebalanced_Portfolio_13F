@@ -1,0 +1,5 @@
+Filer Name,Stock Name,Stock Ticker,Quarter Date,Type of Security,Current Shares Held,Current Market Value,Previous Shares Held,Previous Market Value,Current % of Portfolio,Previous % of Portfolio,Current Rank,Previous Rank,Change in Shares,Type of Change,Sector,stock_id
+FAIRHOLME CAPITAL MANAGEMENT LLC,St. Joe Corp,JOE,2019-03-31,SH,26532198.0,437516000.0,26547898.0,349636000.0,92.443,95.3411,1,1,-0.059138,reduction,REAL ESTATE,2602
+FAIRHOLME CAPITAL MANAGEMENT LLC,Berkshire Hathaway Inc Class B,BRK.B,2019-03-31,SH,131825.0,26482000.0,0.0,0.0,5.5954,,2,999999,,new,FINANCE,2827
+FAIRHOLME CAPITAL MANAGEMENT LLC,Vista Outdoor Inc,VSTO,2019-03-31,SH,1159000.0,9284000.0,1475400.0,16746000.0,1.9616,4.5664,3,2,-21.445032,reduction,CONSUMER DISCRETIONARY,175999
+FAIRHOLME CAPITAL MANAGEMENT LLC,Jefferies Financial Group Inc. (Talcott National - Leucadia National),JEF,2019-03-31,SH,0.0,0.0,21784.0,339000.0,,0.0924,999999,3,-100.0,soldall,FINANCE,11351
